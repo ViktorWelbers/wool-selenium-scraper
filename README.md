@@ -1,2 +1,2 @@
 # go-selenium-scraper
-An exemplary webscraperm
+An exemplary webscraper
