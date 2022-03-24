@@ -10,4 +10,4 @@ An exemplary webscraper that can be used to extract prices and features for prod
 
 
 
->A quick tip: Don't upload large binary files to a GitHub Repo (Looking at you Geckodriver). This is an exception and should usually not be done :)
+>Note: Don't upload large binary files to a GitHub Repo (Looking at you Geckodriver). This is an exception and should usually not be done :)
