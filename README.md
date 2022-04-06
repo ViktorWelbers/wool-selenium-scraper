@@ -1,4 +1,4 @@
-# go-selenium-scraper
+# python-selenium-scraper
 
 An exemplary webscraper that can be used to extract prices and features for products on https://www.wollplatz.de/.
 
